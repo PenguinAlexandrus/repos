@@ -98,14 +98,9 @@ namespace Calculator
             isDotAvaiable = true;
         }
 
-        private void zero_Click(object sender, EventArgs e)
-        {
-        }
+    
 
-        private void one_Click(object sender, EventArgs e)
-        {
-            inputSymbol("1");
-        }
+       
 
         private void two_Click(object sender, EventArgs e)
         {
