@@ -100,7 +100,6 @@ namespace Calculator
 
         private void zero_Click(object sender, EventArgs e)
         {
-            inputSymbol("0");
         }
 
         private void one_Click(object sender, EventArgs e)
@@ -188,5 +187,5 @@ namespace Calculator
                 input.Text = inputString;
             }
         }
-    }
+    }   
 }
